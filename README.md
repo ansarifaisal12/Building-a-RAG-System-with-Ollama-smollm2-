@@ -120,11 +120,6 @@ Feel free to:
 - Create a feature branch
 - Submit pull requests
 - Report issues
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - LangChain community
@@ -133,5 +128,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - All contributors and users
 
 ---
-
-💡 **Note:** Make sure to handle sensitive financial information appropriately and validate the analysis results before making any financial decisions.
